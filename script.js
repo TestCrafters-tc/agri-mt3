@@ -12,7 +12,7 @@ const questions = [
         "id": 2,
         "text": "",
         "options": ["n!", "(n+1)!", "0", "None"],
-        "correctAnswer": 3,
+        "correctAnswer": 2,
         "points": 1,
         "explanation": "",
         "image": "q2.png"
@@ -255,7 +255,7 @@ const questions = [
         "id": 29,
         "text": "একটি সুষম তড়িৎক্ষেত্রে 50cm ব্যবধানে অবস্থিত দুটি বিন্দুর বিভব পার্থক্য 200V। তড়িৎক্ষেত্রের প্রাবল্য কত? / In a uniform electric field, the potential difference between two points 50 cm apart is 200V. What is the electric field intensity?",
         "options": ["400 Vcm⁻¹", "400 Vm⁻¹", "40 Vcm⁻¹", "40 Vm⁻¹"],
-        "correctAnswer": 2,
+        "correctAnswer": 1,
         "points": 1,
         "explanation": "Electric field intensity (E) is calculated using the formula E = V / d, where V is the potential difference and d is the distance."
     },
@@ -473,7 +473,7 @@ const questions = [
             "1.99 × 10²³",
             "1.99 × 10⁻²⁴"
         ],
-        "correctAnswer": 2,
+        "correctAnswer": 0,
         "points": 1,
         "explanation": "The mass of a carbon-12 atom is approximately 1.66 × 10⁻²⁴ grams."
     },
@@ -824,7 +824,7 @@ const questions = [
             "ক্ষারীয় pH (Alkaline pH)",
             "জ্যান্থোফিল (Xanthophyll)"
         ],
-        "correctAnswer": 1,
+        "correctAnswer": 0,
         "points": 1,
         "explanation": "এসিডিক pH এর প্রভাবে ফুলের পাপড়ির রং বেগুনী হয়। (The purple color of flower petals is influenced by acidic pH.)"
     },
@@ -837,7 +837,7 @@ const questions = [
             "প্রচ্ছন্ন এপিস্ট্যাসিস (Recessive epistasis)",
             "প্রকট এপিস্ট্যাসিস (Dominant epistasis)"
         ],
-        "correctAnswer": 3,
+        "correctAnswer": 2,
         "points": 1,
         "explanation": "প্রচ্ছন্ন এপিস্ট্যাসিস এর কারণে রঙ্গিন জিন থাকা সত্ত্বেও হোয়াইট লেগহর্ন মুরগীর পালক সাদা হয়। (Due to recessive epistasis, the feathers of White Leghorn chickens appear white despite having colored genes.)"
     },
